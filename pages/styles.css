@@ -1,0 +1,27 @@
+body {
+    background-color: #ffffff;
+	margin: 0
+}
+.text-2xl {
+    font-size: 1.5rem;
+    line-height: 2rem;
+}
+.table-one {
+	display: block;
+	margin-left:6cm;
+	margin-top:2cm;
+}
+.table-two{
+	display: inline-table;
+	margin-left:6cm;
+	margin-top: 1cm;
+	border-width: 0.1px;
+}
+.text-start{
+	font-size:1.2rem
+}
+.country{
+	margin-left:6cm;
+	margin-right:9cm;
+	margin-bottom:2cm;
+}
